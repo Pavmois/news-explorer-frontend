@@ -1,0 +1,10 @@
+.card__button_mark:hover .button__icon_bookmark,
+.card__button_mark:focus .button__icon_bookmark{
+  stroke: #1a1b22;
+  fill: none;
+}
+
+.card__button_mark:active .button__icon_bookmark{
+  stroke: #2f71e5;
+  fill: #2f71e5;
+}

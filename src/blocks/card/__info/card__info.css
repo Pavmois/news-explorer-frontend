@@ -1,0 +1,12 @@
+.card__info {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 16px;
+}
+
+@media screen and (min-width: 1440px) {
+  .card__info {
+    padding: 24px;
+  }
+}

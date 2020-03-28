@@ -1,0 +1,12 @@
+.card__date {
+  display: block;
+  margin-bottom: 10px;
+  font-family: 'SourceSansPro', system-ui;
+  color: #b6bcbf;
+}
+
+@media screen and (min-width: 768px) {
+  .card__date {
+    margin-bottom: 12px;
+  }
+}

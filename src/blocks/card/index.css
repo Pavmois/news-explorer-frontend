@@ -1,0 +1,20 @@
+@import url(./card.css);
+
+@import url(./__image/card__image.css);
+
+@import url(./__info/card__info.css);
+@import url(./__date/card__date.css);
+@import url(./__title/card__title.css);
+@import url(./__text/card__text.css);
+@import url(./__source/card__source.css);
+
+@import url(./__buttons/card__buttons.css);
+@import url(./__button/card__button.css);
+
+@import url(./__button/_mark/card__button_mark.css);
+@import url(./__button/_mark_active/card__button_mark_active.css);
+
+@import url(./__button/_trash/card__button_trash.css);
+
+@import url(./__tooltip/card__tooltip.css);
+@import url(./__mark/card__mark.css);

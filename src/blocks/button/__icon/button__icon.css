@@ -1,0 +1,4 @@
+.button__icon {
+  display: block;
+  pointer-events: none;
+}

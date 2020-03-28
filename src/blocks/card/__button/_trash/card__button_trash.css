@@ -1,0 +1,4 @@
+.card__button_trash:hover .button__icon_trash,
+.card__button_trash:focus .button__icon_trash, {
+  fill: #1a1b22;
+}

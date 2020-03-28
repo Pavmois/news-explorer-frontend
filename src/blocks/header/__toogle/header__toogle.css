@@ -1,0 +1,14 @@
+.header__toogle {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  z-index: 3;
+  height: auto;
+  width: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .header__toogle {
+    display: none;
+  }
+}

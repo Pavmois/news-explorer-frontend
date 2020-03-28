@@ -1,0 +1,26 @@
+.footer {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 64px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    height: 80px;
+  }
+}

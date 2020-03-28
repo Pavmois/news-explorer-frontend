@@ -1,0 +1,17 @@
+.card__mark {
+  box-sizing: border-box;
+  position: relative;
+  width: auto;
+  height: 40px;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  white-space: nowrap;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #000;
+}

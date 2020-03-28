@@ -1,0 +1,11 @@
+.header__toogle_open .button__icon_black {
+  fill: #fff;
+}
+
+.header__toogle_open .header__toogle-bar_fst {
+  transform: translate(43%, -10%) rotate(45deg);
+ }
+
+.header__toogle_open .header__toogle-bar_scd {
+  transform: translate(-30%, 43%) rotate(-45deg);
+}

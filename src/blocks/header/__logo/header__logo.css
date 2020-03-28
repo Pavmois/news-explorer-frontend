@@ -1,0 +1,17 @@
+.header__logo {
+  z-index: 3;
+  font-family: 'Roboto Slab', system-ui, serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #1a1b22;
+  border: none;
+  text-decoration: none;
+}
+
+
+@media screen and (min-width: 768px) {
+  .header__logo {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,9 @@
+.card__buttons {
+  box-sizing: border-box;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+}

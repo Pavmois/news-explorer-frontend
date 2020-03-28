@@ -1,0 +1,5 @@
+.footer__social-item {
+  display: inline-flex;
+  margin-left: 25px;
+  text-decoration: none;
+}
