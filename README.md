@@ -5,8 +5,7 @@
 ## version 1
 
 ### Ссылки на сайт проекта:
- - 
- - [Github Pages]
+ - [Github Pages](https://Pavmois.github.io/news-explorer-frontend)
 
 ### Как развернуть проект?
 Необходимо скачать репозиторий на локальное хранилище. Распаковать архив и в корне папки news-explorer-frontend открыть Git Bash. В появившейся консоли необходимо написать следующую команду:
